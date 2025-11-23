@@ -93,6 +93,21 @@ This will generate a comprehensive comparison chart:
 
 <p align="center"><img src="plot.png" width="50%" height="auto"/></p>
 
+## Citation
+
+```bibtex
+@misc{xu2025trimodaldatasetbaselinetracking,
+      title={A Tri-Modal Dataset and a Baseline System for Tracking Unmanned Aerial Vehicles}, 
+      author={Tianyang Xu and Jinjie Gu and Xuefeng Zhu and XiaoJun Wu and Josef Kittler},
+      year={2025},
+      eprint={2511.18344},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.18344}, 
+}
+```
+
+
 ## Acknowledgement
 
 A significant portion of the code is borrowed from [TrackEval](https://github.com/JonathonLuiten/TrackEval) We thank the authors for their excellent work!
