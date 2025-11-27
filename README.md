@@ -107,7 +107,6 @@ This will generate a comprehensive comparison chart:
 }
 ```
 
-
 ## Acknowledgement
 
 A significant portion of the code is borrowed from [TrackEval](https://github.com/JonathonLuiten/TrackEval) We thank the authors for their excellent work!
